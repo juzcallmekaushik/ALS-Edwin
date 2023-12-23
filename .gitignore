@@ -1,0 +1,9 @@
+.env
+client_secret.json
+gmail_token.json
+Upcoming Features.txt
+__pycache__
+EdwinSounds
+EdwinUimages
+MinimizetoTray
+output
